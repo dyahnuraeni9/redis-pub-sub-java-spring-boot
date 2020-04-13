@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringDataRedisPubSubApplication<spring-data-redis-pub-sub>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.javasampleapproach.redis.pubsub.SpringDataRedisPubSubApplication",
+            "projectName": "spring-data-redis-pub-sub",
+            "args": ""
+        }
+    ]
+}
